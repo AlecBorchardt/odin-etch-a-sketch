@@ -1,0 +1,23 @@
+body{
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+}
+.divRow {
+  display: flex;
+  flex-direction: row;
+}
+  .tile{
+    background-color: white;
+  }
+  #fatherDiv{
+    display: flex;
+    height: 500px;
+    width: 500px;
+    flex-direction: column;
+    background-color: orange;
+  }
+  
+  .black{
+    background-color: black;
+  }
